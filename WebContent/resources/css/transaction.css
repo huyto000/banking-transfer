@@ -1,0 +1,99 @@
+ #jumbotron{
+	border: 1px solid black;
+	height: 8em;
+	font-family:sans-serif;
+	height:auto;
+	font-size: 40px;
+	margin: 0px;
+	text-align:center;
+}
+ #header1 {
+ width: 70%;
+ text-align:center;
+ }
+ 
+ #alert_post{
+ padding:0px;
+ margin:0px;
+ display:none;
+ }
+ #err-login{
+ 
+ 	color: red;
+ 	font-style:bold;
+ 	font-size:150%;
+ 
+ }
+#container{
+	border: 2px solid black;
+	padding: 15px;
+	font-family:serif;
+	width:40%;
+	margin-top: 30px;
+	margin-left: 30%;
+	font-family:sans-serif;
+	font-size: 20px;
+}
+.container{
+	margin-top: 30px;
+}
+
+form{
+	margin: 20px;
+	padding:20px 20px 20px 20px;
+} 
+span {
+	cursor: pointer;
+}
+ .changepassside{
+ width:80%;
+ }
+ input {
+	height: 30px;
+	width:70%;
+} 
+table{
+	width:100%;
+}
+html,body{
+	height: 100vh;
+}
+#right-inside{
+	padding:5px;
+	font-size:120%;
+}
+ 
+	#left {
+		display: table-cell;
+		font-size:30px;
+		width:40%;
+		border:1px solid black;
+		
+	}
+	 #right {
+	 	display:table-cell;
+		
+		width:60%;
+		
+		border:1px solid black;
+	}
+	#center{
+		border:0px solid black;
+		display: inline;
+		display: table;
+		width: 100%;
+		height: 80vh;
+	}
+	#trans_log{
+	padding-left: 20px;
+	}
+	#hello{
+	font-size:30px;
+	padding:20px;
+	text-transform: uppercase;
+	}
+	#table2{
+	padding: 0px;
+	margin-left: 0px;
+	width: 100%;
+} 
